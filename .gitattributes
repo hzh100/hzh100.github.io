@@ -1,4 +1,4 @@
-*.html linguist-language=html
+# *.html linguist-language=html
 *.js linguist-language=js
 *.js eol=lf
 *.json eol=lf
