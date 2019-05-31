@@ -1,5 +1,5 @@
-*.html linguist-language=java;
-*.html linguist-language=js
+*.html linguist-language=html;
+*.js linguist-language=js
 *.js eol=lf
 *.json eol=lf
 *.jsx eol=lf
