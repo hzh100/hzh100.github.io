@@ -1,3 +1,7 @@
 
-*.html linguist-language=vue
-*.vue linguist-language=vue
+# *.html linguist-language=vue
+# *.vue linguist-language=vue
+# *.js eol=lf
+# *.json eol=lf
+# *.jsx eol=lf
+# *.ts eol=lf
